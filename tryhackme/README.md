@@ -3,7 +3,6 @@
 This section contains structured notes and summaries of the rooms and pathways I complete on TryHackMe.
 
 ## Pathways
-- Offensive Security Intro (completed)
 - Pre Security (in progress)
 - SOC Level 1 (planned)
 
